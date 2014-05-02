@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vzw" value="name:id;datatype:int,name:hm;datatype:int,name:sm;datatype:int,name:cat_id;datatype:int,name:titel;datatype:string,name:bericht;datatype:blob,name:datum;datatype:date" />
+</info>

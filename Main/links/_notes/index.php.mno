@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Links" value="name:id;datatype:int,name:cat_id;datatype:int,name:url;datatype:string,name:omschrijving;datatype:blob,name:datum;datatype:datetime,name:toon;datatype:string" />
+</info>
