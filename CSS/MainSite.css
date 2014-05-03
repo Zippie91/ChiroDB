@@ -171,14 +171,26 @@ header {
 	margin: 0 auto;	
 }
 
+.gastenboek {
+	border-collapse: collapse;
+	color: #000;
+}
+
+.gasttekst td {
+	width: 50%;
+}	
+
+.gastdate {
+	font-size: 12px;	
+}
+
 .agenda {
 	border: 2px solid black;
 	border-radius: 15px;
 	text-align: center;	
 }
 
-.agenda a {
-	text-align: center;
+.agenda a {	text-align: center;
 	display: block;
 	width: 180px;
 	height: 30px;
