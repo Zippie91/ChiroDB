@@ -172,8 +172,14 @@ header {
 }
 
 .gastenboek {
-	border-collapse: collapse;
 	color: #000;
+	background-color: #FFF;
+	border: 2px outset black;
+	border-radius: 10px;
+}
+
+.gasttekst {
+	border-collapse: collapse;	
 }
 
 .gasttekst td {
@@ -181,7 +187,8 @@ header {
 }	
 
 .gastdate {
-	font-size: 12px;	
+	font-size: 12px;
+	background-color: #FF9;	
 }
 
 .agenda {

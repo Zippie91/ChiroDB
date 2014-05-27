@@ -118,6 +118,7 @@ $totalRows_VastIntro = mysql_num_rows($VastIntro);
         <div class="sidecontent gastenboek">
         	<?php include("../includes/gastenboek.php"); ?>
         </div>
+        <div align="center">&nbsp;</div>
         <div class="sidecontent agenda">
             <?php include("../includes/agenda.php"); ?>
        	</div>
