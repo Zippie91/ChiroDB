@@ -40,8 +40,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 /* ~~ This fixed width container surrounds all other blocks ~~ */
 .container {
 	width: 100%;
-	background-color: #8ee1d6;
-	
+	background-color: #fff;
 	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
 }
 /* ~~ The header is not given a width. It will extend the full width of your layout. ~~ */
@@ -163,7 +162,6 @@ header {
 .sidebar1 {
 	float: left;
 	width: 220px;
-	background-color: #8ee1d6;
 }
 
 .sidecontent {
