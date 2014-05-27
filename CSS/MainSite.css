@@ -176,10 +176,12 @@ header {
 	background-color: #FFF;
 	border: 2px outset black;
 	border-radius: 10px;
+	text-align:center;
 }
 
 .gasttekst {
-	border-collapse: collapse;	
+	border-collapse: collapse;
+	text-align:left;	
 }
 
 .gasttekst td {
